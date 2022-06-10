@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C41E-2F3A
+
+ Directory of C:\Users\URATHAL\Downloads\ProjectsGIT
+
+06/10/2022  11:39 AM    <DIR>          .
+06/10/2022  11:39 AM    <DIR>          ..
+06/10/2022  11:39 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  161,647,325,184 bytes free
